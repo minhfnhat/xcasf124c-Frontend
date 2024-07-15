@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover the perfect blend of fashion and function with our premium footwear collection, designed to keep you moving effortlessly all day long.",
+        "title": "Step into Comfort and Style"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the perfect blend of fashion and function with our premium footwear collection, designed to keep you moving effortlessly all day long.",
+        "title": "Step into Comfort and Style"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover the perfect blend of fashion and function with our premium footwear collection, designed to keep you moving effortlessly all day long.",
+        "title": "Step into Comfort and Style"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover the perfect blend of fashion and function with our premium footwear collection, designed to keep you moving effortlessly all day long.",
+        "title": "Step into Comfort and Style"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the perfect blend of fashion and function with our premium footwear collection, designed to keep you moving effortlessly all day long.",
+        "title": "Step into Comfort and Style"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover the perfect blend of fashion and function with our premium footwear collection, designed to keep you moving effortlessly all day long.",
+        "title": "Step into Comfort and Style"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover the perfect blend of fashion and function with our premium footwear collection, designed to keep you moving effortlessly all day long.",
+        "title": "Step into Comfort and Style"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the perfect blend of fashion and function with our premium footwear collection, designed to keep you moving effortlessly all day long.",
+        "title": "Step into Comfort and Style"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Step into Comfort and Style",
+  "subtitle": "Discover the perfect blend of fashion and function with our premium footwear collection, designed to keep you moving effortlessly all day long."
+}
